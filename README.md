@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustaw-andrzejewski
 - 👀 I’m interested in machine learning and data science in python
-- 🌱 I’m currently learning more one natural language processing
+- 🌱 I’m currently learning more on natural language processing
 - 💞️ I’m looking to collaborate on interesting projects :D
 - 📫 How to reach me https://www.linkedin.com/in/gustaw-andrzejewski/ 
 
